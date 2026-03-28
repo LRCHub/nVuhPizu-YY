@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Little Things",
+  "base_artist": "One Direction",
+  "createdAt": "2026-03-28T15:05:37.022656Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's the Little Things",
+      "artist": "Sonny James",
+      "has_synced": false,
+      "path": "select/01_It's_the_Little_Things_Sonny_James.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Little Things",
+      "artist": "American Aquarium",
+      "has_synced": false,
+      "path": "select/02_Little_Things_American_Aquarium.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Little Things",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/03_Little_Things_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Little Things (Album Version)",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/04_Little_Things_(Album_Version)_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "THE LITTLE THINGS",
+      "artist": "Kelsea Ballerini",
+      "has_synced": true,
+      "path": "select/05_THE_LITTLE_THINGS_Kelsea_Ballerini.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Little Things Give You Away",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/06_The_Little_Things_Give_You_Away_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Little Things",
+      "artist": "Lamb",
+      "has_synced": true,
+      "path": "select/07_Little_Things_Lamb.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "These Little Things",
+      "artist": "Nik Kershaw",
+      "has_synced": true,
+      "path": "select/08_These_Little_Things_Nik_Kershaw.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Little Things",
+      "artist": "Sylver",
+      "has_synced": true,
+      "path": "select/09_Little_Things_Sylver.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "God Takes Care of the Little Things",
+      "artist": "The Boy Least Likely To",
+      "has_synced": true,
+      "path": "select/10_God_Takes_Care_of_the_Little_Things_The_Boy_Least_Likely_To.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Little Things",
+      "artist": "Allie X",
+      "has_synced": true,
+      "path": "select/11_Little_Things_Allie_X.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Little Things",
+      "artist": "Oh Land",
+      "has_synced": false,
+      "path": "select/12_Little_Things_Oh_Land.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Little Things (Klute Mix)",
+      "artist": "Lamb",
+      "has_synced": false,
+      "path": "select/13_Little_Things_(Klute_Mix)_Lamb.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Little Things",
+      "artist": "Elite Gymnastics",
+      "has_synced": false,
+      "path": "select/14_Little_Things_Elite_Gymnastics.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Little Things",
+      "artist": "Earlimart",
+      "has_synced": true,
+      "path": "select/15_The_Little_Things_Earlimart.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Little Things That Give You Away",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/16_The_Little_Things_That_Give_You_Away_U2.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Little Things",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Little_Things_One_Direction.txt"
+    }
+  ]
+}
